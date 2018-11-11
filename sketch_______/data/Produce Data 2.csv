@@ -1,0 +1,101 @@
+Item,Quantity,Measurment,New Quantity,Kind,Arabic Name,Date,Color
+Armenian Cucumber,15,Each,15,Vegetable,قثا,"Dec, 5, 17",3FC282
+Arugula,2,Bunch,6,Vegetable,جرجير,"Dec, 5, 17",3FC282
+Arugula,3,Bunch,9,Vegetable,جرجير,"Jan, 22, 18",3FC282
+Banana,18,Each,18,Fruit,موز,"Dec, 5, 17",FFEA2B
+Banana,60,Each,60,Fruit,موز,"Jan, 22, 18",FFEA2B
+Beet,24,Each,24,Vegetable,بنجر,"Dec, 5, 17",EE3750
+Beet,22,Each,22,Vegetable,بنجر,"Jan, 22, 18",EE3750
+Bell Pepper,15,Each,15,Vegetable,فلفل رومي,"Dec, 5, 17",3FC282
+Bell Pepper,16,Each,16,Vegetable,فلفل رومي,"Jan, 22, 18",3FC282
+Broad Beans,1,Bag,48,Vegetable,فول أخضر,"Dec, 5, 17",3FC282
+Broad Beans,1,Bag,48,Vegetable,فول أخضر,"Jan, 22, 18",3FC282
+Buckthorn Berry,1,Bag,48,Fruit,نبق,"Jan, 22, 18",53402D
+Butternut Squash,2,Each,2,Vegetable,قرع طويل,"Dec, 5, 17",FF9343
+Butternut Squash,4,Each,4,Vegetable,قرع طويل,"Jan, 22, 18",FF9343
+Cabbage,1,Each,1,Vegetable,كرنب,"Jan, 22, 18",3FC282
+Cantaloupe,3,Each,3,Fruit,شمام,"Jan, 22, 18",3FC282
+Carrot,28,Each,28,Vegetable,جزر,"Dec, 5, 17",FF9343
+Carrot,30,Each,30,Vegetable,جزر,"Jan, 22, 18",FF9343
+Cauliflower,1,Each,1,Vegetable,زهرة,"Jan, 22, 18",FFEAF2
+Celery,1,Bunch,3,Vegetable,كرفس,"Dec, 5, 17",3FC282
+Cherry,1,Small Box,18,Fruit,كرز,"Jan, 22, 18",EE3750
+Cherry Tomato,2,Small Box,36,Fruit,طماطم صغيرة,"Dec, 5, 17",EE3750
+Cherry Tomato,1,Small Box,18,Fruit,طماطم صغيرة,"Jan, 22, 18",EE3750
+Chestnut,1,Small Box,18,Vegetable,كستناء,"Dec, 5, 17",53402D
+Chestnut,1,Small Box,18,Vegetable,كستناء,"Jan, 22, 18",53402D
+Cilantro,1,Bunch,3,Vegetable,كزبرة,"Dec, 5, 17",3FC282
+Cilantro,1,Bunch,3,Vegetable,كزبرة,"Jan, 22, 18",3FC282
+Cucumber,10,Each,10,Vegetable,خيار,"Dec, 5, 17",3FC282
+Cucumber,20,Each,20,Vegetable,خيار,"Jan, 22, 18",3FC282
+Dill,1,Bunch,3,Vegetable,شبث,"Dec, 5, 17",3FC282
+Dill,1,Bunch,3,Vegetable,شبث,"Jan, 22, 18",3FC282
+Eggplant,6,Each,6,Vegetable,باذنجان,"Dec, 5, 17",A045B5
+Eggplant,10,Each,10,Vegetable,باذنجان,"Jan, 22, 18",A045B5
+Garlic,12,Each,12,Vegetable,ثوم,"Jan, 22, 18",FFEAF2
+Grape,2,Bag,96,Fruit,عنب,"Jan, 22, 18",3FC282
+Grapefruit,18,Each,18,Fruit,جريب فروت,"Jan, 22, 18",FF9343
+Green Apple,20,Each,20,Fruit,تفاح أخضر,"Dec, 5, 17",3FC282
+Green Apple,21,Each,21,Fruit,تفاح أخضر,"Jan, 22, 18",3FC282
+Green Beans,1,Bag,48,Vegetable,فاصوليا خضراء,"Dec, 5, 17",3FC282
+Green Beans,1,Bag,48,Vegetable,فاصوليا خضراء,"Jan, 22, 18",3FC282
+Green Onion,1,Bunch,3,Vegetable,بصل أخضر,"Dec, 5, 17",3FC282
+Green Onion,1,Bunch,3,Vegetable,بصل أخضر,"Jan, 22, 18",3FC282
+Green Squash,2,Each,2,Vegetable,دبة,"Dec, 5, 17",3FC282
+Guava,9,Each,9,Fruit,جوافة,"Dec, 5, 17",FFEA2B
+Iceberg Lettuce,2,Head,2,Vegetable,خس مدور,"Dec, 5, 17",3FC282
+Iceberg Lettuce,2,Each,2,Vegetable,خس مدور,"Jan, 22, 18",3FC282
+Jew's Mallow,3,Bunch,9,Vegetable,ملوخية,"Dec, 5, 17",3FC282
+Jew's Mallow,2,Bunch,6,Vegetable,ملوخية,"Jan, 22, 18",3FC282
+Leek,1,Bunch,3,Vegetable,كراث,"Dec, 5, 17",3FC282
+Lemon,15,Each,15,Fruit,ليمون,"Dec, 5, 17",FFEA2B
+Lemon,14,Each,14,Fruit,ليمون,"Jan, 22, 18",FFEA2B
+Lime,32,Each,32,Fruit,ليم,"Jan, 22, 18",3FC282
+Lychee,75,Each,75,Fruit,ليتشي,"Jan, 22, 18",FFEAF2
+Mango,9,Each,9,Fruit,منجا,"Dec, 5, 17",FF9343
+Mango,9,Each,9,Fruit,منجا,"Jan, 22, 18",FF9343
+Melon,4,Each,4,Fruit,خربز,"Dec, 5, 17",FF9343
+Mint,1,Bunch,3,Vegetable,نعناع,"Jan, 22, 18",3FC282
+Okra,1,Bag,48,Vegetable,بامية,"Dec, 5, 17",3FC282
+Orange,23,Each,23,Fruit,برتقال,"Dec, 5, 17",FF9343
+Orange,25,Each,25,Fruit,برتقال,"Jan, 22, 18",FF9343
+Parsley,1,Bunch,3,Vegetable,بقدونس,"Dec, 5, 17",3FC282
+Parsley,1,Bunch,3,Vegetable,بقدونس,"Jan, 22, 18",3FC282
+Pear,15,Each,15,Fruit,كمثرى,"Dec, 5, 17",FFEA2B
+Pear,20,Each,20,Fruit,كمثرى,"Jan, 22, 18",FFEA2B
+Persimmon,6,Each,6,Fruit,كاكا,"Jan, 22, 18",FF9343
+Pineapple,8,Each,8,Fruit,أناناس,"Dec, 5, 17",FFEA2B
+Plum,17,Each,17,Fruit,بخارة,"Jan, 22, 18",A045B5
+Pomegranate,33,Each,33,Fruit,رمان,"Dec, 5, 17",EE3750
+Pomegranate,8,Each,8,Fruit,رمان,"Jan, 22, 18",EE3750
+Pomelo,6,Each,6,Fruit,بوملي,"Dec, 5, 17",FFEA2B
+Pomelo,6,Each,6,Fruit,بوملي,"Jan, 22, 18",FFEA2B
+Potato,20,Each,20,Vegetable,بطاطس,"Dec, 5, 17",FFEA2B
+Potato,30,Each,30,Vegetable,بطاطس,"Jan, 22, 18",FFEA2B
+Purslane,1,Bunch,3,Vegetable,بقلة,"Dec, 5, 17",3FC282
+Purslane,1,Bunch,3,Vegetable,بقلة,"Jan, 22, 18",3FC282
+Quince,13,Each,13,Fruit,سفرجل,"Dec, 5, 17",FFEA2B
+Red Apple,20,Each,20,Fruit,تفاح أحمر,"Dec, 5, 17",EE3750
+Red Apple,21,Each,21,Fruit,تفاح أحمر,"Jan, 22, 18",EE3750
+Red Cabbage,1,Each,1,Vegetable,كرنب أحمر,"Jan, 22, 18",A045B5
+Red Onion,40,Each,40,Vegetable,بصل أحمر,"Dec, 5, 17",A045B5
+Red Onion,65,Each,65,Vegetable,بصل أحمر,"Jan, 22, 18",A045B5
+Red Radish,1,Bunch,3,Vegetable,فجل أحمر,"Dec, 5, 17",EE3750
+Red Radish,1,Bunch,3,Vegetable,فجل أحمر,"Jan, 22, 18",EE3750
+Romaine Lettuce,2,Head,2,Vegetable,خس طويل,"Dec, 5, 17",3FC282
+Romaine Lettuce,2,Each,2,Vegetable,خس طويل,"Jan, 22, 18",3FC282
+Small Banana,16,Each,16,Fruit,موز صغير,"Jan, 22, 18",FFEA2B
+Spinach,2,Bunch,6,Vegetable,سبانخ,"Dec, 5, 17",3FC282
+Spinach,2,Bunch,6,Vegetable,سبانخ,"Jan, 22, 18",3FC282
+Strawberry,2,Small Box,36,Fruit,فراولة,"Jan, 22, 18",EE3750
+Sweet Corn,15,Each,15,Vegetable,ذرة حلوة,"Dec, 5, 17",FFEA2B
+Sweet Potato,16,Each,16,Vegetable,جزر يماني,"Dec, 5, 17",FF9343
+Sweet Potato,8,Each,8,Vegetable,جزر يماني,"Jan, 22, 18",FF9343
+Tangerine,70,Each,70,Fruit,يوسف أفندي,"Dec, 5, 17",FF9343
+Tangerine,55,Each,55,Fruit,يوسف أفندي,"Jan, 22, 18",FF9343
+Tomato,45,Each,45,Fruit,طماطم,"Dec, 5, 17",EE3750
+Tomato,15,Each,15,Fruit,طماطم,"Jan, 22, 18",EE3750
+White Onion,20,Each,20,Vegetable,بصل أبيض,"Dec, 5, 17",FFEAF2
+White Onion,20,Each,20,Vegetable,بصل أبيض,"Jan, 22, 18",FFEAF2
+Zucchini,15,Each,15,Vegetable,كوسا,"Dec, 5, 17",3FC282
+Zucchini,8,Each,8,Vegetable,كوسا,"Jan, 22, 18",3FC282
